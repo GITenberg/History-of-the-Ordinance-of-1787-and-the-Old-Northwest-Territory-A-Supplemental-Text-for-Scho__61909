@@ -1,0 +1,65 @@
+_repo: History-of-the-Ordinance-of-1787-and-the-Old-Northwest-Territory-A-Supplemental-Text-for-Scho__61909
+_version: 0.0.1
+contributor:
+  contributors:
+  - agent_name: Federal Writers' Project
+    aliases:
+    - United States. Federal Writers' Project
+    - FWP
+    - United States. Work Projects Administration. Federal Writers' Project
+    - United States. Works Progress Administration. Federal Writers' Project
+    - Federal Writers' Projects
+    - Federal Writers' Program
+    gutenberg_agent_id: '51675'
+    url: http://www.gutenberg.org/2009/agents/51675
+    wikipedia: https://en.wikipedia.org/wiki/Federal_Writers%27_Project
+  - agent_name: Blazier, George Jordan
+    birthdate: 1886
+    deathdate: 1970
+    gutenberg_agent_id: '51657'
+    url: http://www.gutenberg.org/2009/agents/51657
+  other_contributor:
+    agent_name: Northwest Territory Celebration Commission (U.S.)
+    alias: United States. Northwest Territory Celebration Commission
+    gutenberg_agent_id: '51674'
+    url: http://www.gutenberg.org/2009/agents/51674
+creator:
+  editors:
+  - agent_name: Quaife, Milo Milton
+    alias: Quaife, M. M. (Milo Milton)
+    birthdate: 1880
+    deathdate: 1959
+    gutenberg_agent_id: '49227'
+    url: http://www.gutenberg.org/2009/agents/49227
+    wikipedia: https://en.wikipedia.org/wiki/Milo_Quaife
+  - agent_name: Lindley, Harlow
+    birthdate: 1875
+    deathdate: 1959
+    gutenberg_agent_id: '51670'
+    url: http://www.gutenberg.org/2009/agents/51670
+  - agent_name: Schneider, Norris F. (Norris Franz)
+    alias: Schneider, Norris Franz
+    birthdate: 1898
+    deathdate: 1993
+    gutenberg_agent_id: '51671'
+    url: http://www.gutenberg.org/2009/agents/51671
+description: ''
+gutenberg_issued: '2020-04-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61909'
+  lccn: '37028275'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States. Ordinance of 1787 -- Bibliography'
+- !lcsh 'Northwest, Old -- History -- Bibliography'
+- !lcsh 'Northwest, Old -- History'
+- !lcsh 'United States. Ordinance of 1787'
+- !lcc 'F476'
+- GITenberg
+title: "History of the Ordinance of 1787 and the Old Northwest Territory\r\nA Supplemental\
+  \ Text for School Use"
+url: http://www.gutenberg.org/ebooks/61909
